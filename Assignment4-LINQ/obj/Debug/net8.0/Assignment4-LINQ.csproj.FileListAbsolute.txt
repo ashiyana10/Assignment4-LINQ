@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\Assignment4-LINQ\Assignment4-LINQ\obj\Debug\net8.0\Assignment4-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Assignment4-LINQ\Assignment4-LINQ\obj\Debug\net8.0\Assignment4-LINQ.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Assignment4-LINQ\Assignment4-LINQ\obj\Debug\net8.0\Assignment4-LINQ.AssemblyInfo.cs
+C:\Users\admin\Documents\Assignment4-LINQ\Assignment4-LINQ\obj\Debug\net8.0\Assignment4-LINQ.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Assignment4-LINQ\Assignment4-LINQ\bin\Debug\net8.0\Assignment4-LINQ.exe
+C:\Users\admin\Documents\Assignment4-LINQ\Assignment4-LINQ\bin\Debug\net8.0\Assignment4-LINQ.deps.json
+C:\Users\admin\Documents\Assignment4-LINQ\Assignment4-LINQ\bin\Debug\net8.0\Assignment4-LINQ.runtimeconfig.json
+C:\Users\admin\Documents\Assignment4-LINQ\Assignment4-LINQ\bin\Debug\net8.0\Assignment4-LINQ.dll
+C:\Users\admin\Documents\Assignment4-LINQ\Assignment4-LINQ\bin\Debug\net8.0\Assignment4-LINQ.pdb
+C:\Users\admin\Documents\Assignment4-LINQ\Assignment4-LINQ\obj\Debug\net8.0\Assignment4-LINQ.dll
+C:\Users\admin\Documents\Assignment4-LINQ\Assignment4-LINQ\obj\Debug\net8.0\refint\Assignment4-LINQ.dll
+C:\Users\admin\Documents\Assignment4-LINQ\Assignment4-LINQ\obj\Debug\net8.0\Assignment4-LINQ.pdb
+C:\Users\admin\Documents\Assignment4-LINQ\Assignment4-LINQ\obj\Debug\net8.0\Assignment4-LINQ.genruntimeconfig.cache
+C:\Users\admin\Documents\Assignment4-LINQ\Assignment4-LINQ\obj\Debug\net8.0\ref\Assignment4-LINQ.dll
